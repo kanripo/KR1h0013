@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 張狀元孟子傳
-#+DATE: 2015-09-23 09:41:06
-#+PROPERTY: JUAN 2
+#+DATE: 2015-09-12 00:40:23.942461
+#+PROPERTY: ID KR1h0013
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB09n0688-003張狀元孟子傳-卷三.
 <pb:KR1h0013_SBCK_003-1a>¶
 張狀元孟子傳巻第三¶
 　　　皇朝太師崇國文忠公臨安府鹽官張　九成子韶¶
@@ -323,4 +327,3 @@
 　五經而至於附梁冀者豈可同年而語乎彼二子之學死於語¶
 　下而孟子之學乃見於有為嗚呼顔氏而後一人而已矣¶
 張狀元孟子傳巻第三¶
-

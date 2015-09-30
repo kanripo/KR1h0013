@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 張狀元孟子傳
-#+DATE: 2015-09-23 09:41:06
-#+PROPERTY: JUAN 19
+#+DATE: 2015-09-12 00:40:24.695701
+#+PROPERTY: ID KR1h0013
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 20
+#+PROPERTY: FILE SB09n0688-020張狀元孟子傳-卷二十.
 <pb:KR1h0013_SBCK_020-1a>¶
 張狀元孟子傳卷第二十¶
 　　　皇朝太師崇國文忠公臨安府鹽官張九成子韶¶
@@ -281,4 +285,3 @@
 　聖王之學乎丗之士乃非之疑之甚者詈之其可哉¶
 張狀元孟子傳卷第二十¶
 <pb:KR1h0013_SBCK_020-10b>¶
-

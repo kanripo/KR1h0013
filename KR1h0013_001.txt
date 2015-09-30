@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 張狀元孟子傳
-#+DATE: 2015-09-23 09:41:06
-#+PROPERTY: JUAN 0
+#+DATE: 2015-09-12 00:40:23.857013
+#+PROPERTY: ID KR1h0013
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB09n0688-001張狀元孟子傳-卷一.
 <pb:KR1h0013_SBCK_001-1a>¶
 張狀元孟子傳巻第一¶
 　　　皇朝太師榮國文忠公臨安府　？　子韶¶
@@ -362,4 +366,3 @@
 <pb:KR1h0013_SBCK_001-13a>¶
 ¶
 張狀元孟子傳巻第一¶
-

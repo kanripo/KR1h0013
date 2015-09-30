@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 張狀元孟子傳
-#+DATE: 2015-09-23 09:41:06
-#+PROPERTY: JUAN 29
+#+DATE: 2015-09-12 00:40:25.140264
+#+PROPERTY: ID KR1h0013
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 30
+#+PROPERTY: FILE SB09n0688-030張狀元孟子傳-跋.
 <pb:KR1h0013_SBCK_030-1a>¶
 跋¶
 余爲涵芬樓收得張金吾所輯詒經堂續經解獲覩　先文忠¶
@@ -38,4 +42,3 @@
 　專爲孟子鳴其不平又豈能以意逆志者耶民國紀元二十有¶
 　五年丙子六月裔孫元濟謹識¶
 <pb:KR1h0013_SBCK_030-2b>¶
-

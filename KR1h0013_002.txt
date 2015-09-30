@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 張狀元孟子傳
-#+DATE: 2015-09-23 09:41:06
-#+PROPERTY: JUAN 1
+#+DATE: 2015-09-12 00:40:23.892976
+#+PROPERTY: ID KR1h0013
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB09n0688-002張狀元孟子傳-卷二.
 <pb:KR1h0013_SBCK_002-1a>¶
 張狀元孟子傳巻第二¶
 　　　皇朝太師崇國文忠公臨安府鹽官張　九成子韶¶
@@ -320,4 +324,3 @@
 <pb:KR1h0013_SBCK_002-11b>¶
 ¶
 張狀元孟子巻第二¶
-

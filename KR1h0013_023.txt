@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 張狀元孟子傳
-#+DATE: 2015-09-23 09:41:06
-#+PROPERTY: JUAN 22
+#+DATE: 2015-09-12 00:40:24.823579
+#+PROPERTY: ID KR1h0013
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 23
+#+PROPERTY: FILE SB09n0688-023張狀元孟子傳-卷二十三.
 <pb:KR1h0013_SBCK_023-1a>¶
 太丁未立外丙二年仲壬四年太甲顛覆湯之典刑伊尹放之於¶
 桐三年太甲悔過自怨自艾於桐處仁迁義三年以聽伊尹之訓¶
@@ -202,4 +206,3 @@
 　同爲血肉而後此風息耳嗚呼痛哉¶
 張狀元孟子傳卷第二十三¶
 <pb:KR1h0013_SBCK_023-8a>¶
-

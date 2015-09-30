@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 張狀元孟子傳
-#+DATE: 2015-09-23 09:41:06
-#+PROPERTY: JUAN 25
+#+DATE: 2015-09-12 00:40:24.959419
+#+PROPERTY: ID KR1h0013
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 26
+#+PROPERTY: FILE SB09n0688-026張狀元孟子傳-卷二十六.
 <pb:KR1h0013_SBCK_026-1a>¶
 張狀元孟子傳卷第二十六¶
 　　　皇朝太師崇國文忠公臨安府鹽官張九成子韶¶
@@ -295,4 +299,3 @@
 嗚呼以天下爲心者其於斯民豈可忽哉於孟子之言亦惡可¶
 　不三復而味之哉¶
 張狀元孟子傳卷第二十六¶
-

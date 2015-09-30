@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 張狀元孟子傳
-#+DATE: 2015-09-23 09:41:06
-#+PROPERTY: JUAN 3
+#+DATE: 2015-09-12 00:40:23.987854
+#+PROPERTY: ID KR1h0013
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB09n0688-004張狀元孟子傳-卷四.
 <pb:KR1h0013_SBCK_004-1a>¶
 張狀元孟子傳卷第四¶
 　　皇朝太師崇國文忠公臨安府鹽官張　九成　子韶¶
@@ -377,4 +381,3 @@
 <pb:KR1h0013_SBCK_004-13b>¶
 ¶
 張下元孟子傳卷第四¶
-

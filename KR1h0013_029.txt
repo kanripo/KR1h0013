@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 張狀元孟子傳
-#+DATE: 2015-09-23 09:41:06
-#+PROPERTY: JUAN 28
+#+DATE: 2015-09-12 00:40:25.094559
+#+PROPERTY: ID KR1h0013
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 29
+#+PROPERTY: FILE SB09n0688-029張狀元孟子傳-卷二十九.
 <pb:KR1h0013_SBCK_029-1a>¶
 張狀元孟子傳卷第二十九¶
 　　皇朝太師崇國文忠公臨安府鹽官張九成子韶¶
@@ -240,4 +244,3 @@
 探賾索隱鉤深致逺乃見天之運用焉學入精微思極深眇如¶
 此此所以在聖賢之列¶
 張狀元孟子傳卷第二十九¶
-

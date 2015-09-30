@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 張狀元孟子傳
-#+DATE: 2015-09-23 09:41:06
-#+PROPERTY: JUAN 13
+#+DATE: 2015-09-12 00:40:24.424866
+#+PROPERTY: ID KR1h0013
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 14
+#+PROPERTY: FILE SB09n0688-014張狀元孟子傳-卷十四.
 <pb:KR1h0013_SBCK_014-1a>¶
 張狀元孟子傳卷第十四¶
 　　　皇朝太師崇國文忠公臨安府鹽官張九成子韶¶
@@ -228,4 +232,3 @@
 　士以信相考百姓以睦相守矣深原其本本自脩身此孟子之¶
 　&KR0003;也原脩身之本本自格物此大學之道也余因孟子之論又¶
 <pb:KR1h0013_SBCK_014-8b>¶
-

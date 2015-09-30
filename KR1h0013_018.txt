@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 張狀元孟子傳
-#+DATE: 2015-09-23 09:41:06
-#+PROPERTY: JUAN 17
+#+DATE: 2015-09-12 00:40:24.609425
+#+PROPERTY: ID KR1h0013
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 18
+#+PROPERTY: FILE SB09n0688-018張狀元孟子傳-卷十八.
 <pb:KR1h0013_SBCK_018-1a>¶
 張狀元孟子傳卷第十八¶
 　　皇朝太師崇國文忠公臨安府鹽官張九成子韶¶
@@ -272,4 +276,3 @@
 　聖人安有絶人之心乎文王不聞亦式不諫亦入不顯亦臨無¶
 　射亦保皆天心也孟子之學所造如此而非之而疑之而詈之¶
 　哀哉　︻十八卷終¶
-
